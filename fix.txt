@@ -1,3 +1,4 @@
 # FIX.TXT
 this is our bug fix.
 do thsi after stash
+learn conflict
