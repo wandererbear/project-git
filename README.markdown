@@ -1,2 +1,2 @@
 #Git Essentials
-2
+Learning git stash
